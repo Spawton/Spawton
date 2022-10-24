@@ -28,7 +28,7 @@ Once the sun sets, you can find me nursing old and broken jewellery back to life
 
 - 🔭 I’m currently working on **An intensive 12 week academy with Digital Futures!**
 - 🌱 I’m currently learning **Java and Javascript!**
-- 👯 I’m looking to collaborate on **Any exciting beginner projects with like-minded developers**
+- 👯 I’m looking to collaborate on **any exciting beginner projects with like-minded developers**
 - 📫 How to reach me: **amyspawton.com**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I still haven't watched any of Game of thrones!**
