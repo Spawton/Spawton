@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="amylogo.jpg" width="100%">
+  <img src="assets/amylogo.jpg" width="100%">
 </p>  
 
 <h1 align="center">Hi 👋, I'm Amy Spawton</h1>
