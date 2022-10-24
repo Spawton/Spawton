@@ -3,6 +3,13 @@
 </p> 
 
 <p align="center">
+On any given day you can find me donning two hats: I'm a software engineer by day and a goldsmith by night!
+
+As a software engineer, I build full stack web applications for my clients. I have always had a keen interest in problem solving and creating products from scratch and this combination led me to pursue a career in software engineering.
+
+Once the sun sets, you can find me nursing old and broken jewellery back to life and handing it back over to its grateful owner where they will be loved once more. For every piece of jewellery I rescue, it means one less piece at the landfill. My superpower is converting trash to treasure, what's yours?</p>
+
+<p align="center">
   <a href="https://amyspawton.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
