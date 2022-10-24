@@ -1,4 +1,6 @@
-<img align= "centre" src="assets/Black and white Initials elegant cursive logo1.png" width="60%">
+<p align="center">
+  <img src="assets/Black and white Initials elegant cursive logo1.png" width="100%">
+</p>  
 
 <h1 align="center">Hi 👋, I'm Amy Spawton</h1>
 <h3 align="center">A passionate full-stack developer from Oxfordshire</h3>
