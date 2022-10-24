@@ -33,6 +33,10 @@ Once the sun sets, you can find me nursing old and broken jewellery back to life
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I still haven't watched any of Game of thrones!**
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=spawton&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/spawtona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spawtona" height="30" width="40" /></a>
