@@ -1,3 +1,5 @@
+<img src="" width="100%">
+
 <h1 align="center">Hi 👋, I'm Amy Spawton</h1>
 <h3 align="center">A passionate full-stack developer from Oxfordshire</h3>
 
