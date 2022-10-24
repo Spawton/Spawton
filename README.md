@@ -19,7 +19,7 @@
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=008081&vCenter=true&center=true&width=460&lines=software+engineer+by+day;Goldsmith+by+night" </p> 
 
-<p align="left"> <a href="https://twitter.com/spawtona" target="blank"><img src="https://img.shields.io/twitter/follow/spawtona?logo=twitter&style=for-the-badge" alt="spawtona" /></a> </p>
+<p align="centre"> <a href="https://twitter.com/spawtona" target="blank"><img src="https://img.shields.io/twitter/follow/spawtona?logo=twitter&style=for-the-badge" alt="spawtona" /></a> </p>
 
 <p align="center">
 On any given day you can find me donning two hats: I'm a software engineer by day and a goldsmith by night!
