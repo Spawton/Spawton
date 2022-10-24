@@ -9,18 +9,13 @@
   <a href="https://www.linkedin.com/in/amy-spawton-877236239" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/spawtona" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
+  <a href="https://twitter.com/spawtona" target="blank"><img src="https://img.shields.io/twitter/follow/spawtona?logo=twitter&style=for-the-badge" alt="spawtona" />     </a>  
 </p>
 
 <h1 align="center">Hi 👋, I'm Amy Spawton</h1>
 <h3 align="center">A passionate full-stack developer from Oxfordshire</h3>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=008081&vCenter=true&center=true&width=460&lines=software+engineer+by+day;Goldsmith+by+night" </p> 
-
-<p align= "centre"> 
-<a href="https://twitter.com/spawtona" target="blank"><img src="https://img.shields.io/twitter/follow/spawtona?logo=twitter&style=for-the-badge" alt="spawtona" /></a> </p>
 
 <p align="center">
 On any given day you can find me donning two hats: I'm a software engineer by day and a goldsmith by night!
