@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Amy Spawton</h1>
 <h3 align="center">A passionate full-stack developer from Oxfordshire</h3>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=software+engineer+by+day;Goldsmith+by+night" </p> 
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=008081&vCenter=true&center=true&width=460&lines=software+engineer+by+day;Goldsmith+by+night" </p> 
 
 <p align="left"> <a href="https://twitter.com/spawtona" target="blank"><img src="https://img.shields.io/twitter/follow/spawtona?logo=twitter&style=for-the-badge" alt="spawtona" /></a> </p>
 
