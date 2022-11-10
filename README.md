@@ -33,11 +33,11 @@ Once the sun sets, you can find me nursing old and broken jewellery back to life
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I still haven't watched any of Game of thrones!**
 
+<img src="explorer.png" width=200>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=spawton&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </div>
-
-<img src="explorer.png" width=200>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
