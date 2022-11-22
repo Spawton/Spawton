@@ -35,7 +35,7 @@ Once the sun sets, you can find me nursing old and broken jewellery back to life
 
 <p align="center">
   <img src="assets/explorer.png" width=200>
-  <img src="assets/explorer1.png" width=200>
+  <img src="assets/agile-explorer.png" width=200>
 </p>  
 
 <div align="center">
