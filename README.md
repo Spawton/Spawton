@@ -35,7 +35,7 @@ Once the sun sets, you can find me nursing old and broken jewellery back to life
 
 <p align="center">
   <img src="assets/explorer.png" width=200>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1825883e-99a3-4477-b0e9-618457fd5d1e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <img src="assets/explorer1.png" width=200>
 </p>  
 
 <div align="center">
