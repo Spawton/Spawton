@@ -42,6 +42,86 @@ Once the sun sets, you can find me nursing old and broken jewellery back to life
   <img src="https://github-readme-streak-stats.herokuapp.com?user=spawton&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </div>
 
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+
+
+  <tr>
+      <td width="50%" valign="top">
+      <h3 align="center">Chitter Challenge</h3>
+        <br />
+        <a target="_blank" >
+            <img src="/assets/Chitter.gif" width="100%" alt="homepage"/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://github.com/Spawton/Digital-Futures-Challenges/tree/main/Chitter-Challenge" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p>A lovely full stack application inspired by twitter!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Portfolio Website</h3>
+      <br />
+        <a target="_blank" href="https://amyspawton.com/">
+          <img src="/assets/Portfolio.gif" width="100%" alt="my portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://amyspawton.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p>My portfolio website</p>
+    </td>
+
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Studio Ghibli film viewer</h3>
+        <br />
+        <a target="_blank" href="https://starlit-babka-7ac42c.netlify.app/">
+          <img src="/assets/Ghibli.gif" width="100%" alt="Ghibli app"/>
+        </a>
+        <br />
+        <p align="center">
+
+  <a href="https://github.com/Spawton/Ghibli-Film-Viewer" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://github.com/Spawton/Ghibli-Film-Viewer/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p>View the wonderful films of Studio Ghibli!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Naughts and crosses game</h3>
+        <br />
+        <a target="_blank" href="https://prismatic-conkies-df54e7.netlify.app/">
+          <img src="/naughtsAndCrosses.gif" width="100%" alt="app homepage"/>
+        </a>
+        <br />
+        <p align="center">
+
+  <a href="https://github.com/Spawton/NaughtsAndCrosses" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://prismatic-conkies-df54e7.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p>A fun interactive game of Naughts and Crosses!</p>
+    </td>
+  </tr>
+</table>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/spawtona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spawtona" height="30" width="40" /></a>
