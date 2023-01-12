@@ -58,7 +58,7 @@ Once the sun sets, you can find me nursing old and broken jewellery back to life
   <a href="https://github.com/Spawton/Digital-Futures-Challenges/tree/main/Chitter-Challenge" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+<!--     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/> -->
   </a>
       </p>
         <p>A lovely full stack application inspired by twitter!</p>
@@ -95,7 +95,7 @@ Once the sun sets, you can find me nursing old and broken jewellery back to life
   <a href="https://github.com/Spawton/Ghibli-Film-Viewer" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://github.com/Spawton/Ghibli-Film-Viewer/" target="_blank">
+  <a href="https://starlit-babka-7ac42c.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
