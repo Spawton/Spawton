@@ -51,7 +51,7 @@ Once the sun sets, you can find me nursing old and broken jewellery back to life
       <h3 align="center">Chitter Challenge</h3>
         <br />
         <a target="_blank" >
-            <img src="/assets/Chitter.gif" width="100%" alt="homepage"/>
+            <img src="/Chitter.gif" width="100%" alt="homepage"/>
         </a>
         <br />
         <p align="center">
@@ -67,7 +67,7 @@ Once the sun sets, you can find me nursing old and broken jewellery back to life
       <h3 align="center">Portfolio Website</h3>
       <br />
         <a target="_blank" href="https://amyspawton.com/">
-          <img src="/assets/Portfolio.gif" width="100%" alt="my portfolio"/>
+          <img src="/Portfolio.gif" width="100%" alt="my portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -87,7 +87,7 @@ Once the sun sets, you can find me nursing old and broken jewellery back to life
       <h3 align="center">Studio Ghibli film viewer</h3>
         <br />
         <a target="_blank" href="https://starlit-babka-7ac42c.netlify.app/">
-          <img src="/assets/Ghibli.gif" width="100%" alt="Ghibli app"/>
+          <img src="/Ghibli.gif" width="100%" alt="Ghibli app"/>
         </a>
         <br />
         <p align="center">
