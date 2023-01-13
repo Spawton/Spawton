@@ -42,6 +42,14 @@ Once the sun sets, you can find me nursing old and broken jewellery back to life
   <img src="https://github-readme-streak-stats.herokuapp.com?user=spawton&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </div>
 
+<div align="center">
+  <p>Visitor Count</p>
+  <img src="https://profile-counter.glitch.me/{Spawton}/count.svg">
+</div>
+
+<hr>
+
+
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
 
