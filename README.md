@@ -33,6 +33,14 @@ Once the sun sets, you can find me nursing old and broken jewellery back to life
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I still haven't watched any of Game of thrones!**
 
+Links to Repos:
+
+### [All Digital Futures Assessed Work](https://github.com/Spawton/Digital-Futures-Challenges)
+### [Academy Full Stack Team Engineering Project](https://github.com/SE-2209-Group1)
+### [Ongoing pair-programming project](https://github.com/Jacamy)
+
+More Links to my projects below!...
+
 <p align="center">
   <img src="assets/explorer.png" width=200>
   <img src="assets/agile-explorer.png" width=200>
