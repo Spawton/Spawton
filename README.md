@@ -96,6 +96,41 @@ More Links to my projects below!...
       </p>
         <p>My portfolio website</p>
     </td>
+    
+     <tr>
+      <td width="50%" valign="top">
+      <h3 align="center">Group DFX Clone</h3>
+        <br />
+        <a target="_blank" >
+            <img src="/GroupProject.gif" width="100%" alt="homepage"/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://github.com/SE-2209-Group1" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+<!--     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/> -->
+  </a>
+      </p>
+        <p>A great DFX clone created by me and a group of talented devs!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Pair Programming Project</h3>
+      <br />
+        <a target="_blank" href="https://github.com/Jacamy">
+          <img src="/Jacamy.gif" width="100%" alt="Jacamy website"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="#" target="_blank">
+<!--     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> -->
+  </a>
+  <a>
+    <!--   <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/> -->
+  </a>
+      </p>
+        <p>My portfolio website</p>
+    </td>
 
   </tr>
   <tr>
