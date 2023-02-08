@@ -99,43 +99,41 @@ More Links to my projects below!...
 
   </tr>
   
-   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Studio Ghibli film viewer</h3>
+  <tr>
+      <td width="50%" valign="top">
+      <h3 align="center">Group DFX Clone</h3>
         <br />
-        <a target="_blank" href="https://starlit-babka-7ac42c.netlify.app/">
-          <img src="/Ghibli.gif" width="100%" alt="Ghibli app"/>
+        <a target="_blank" >
+            <img src="/GroupProject.gif" width="100%" alt="homepage"/>
         </a>
         <br />
         <p align="center">
-
-  <a href="https://github.com/Spawton/Ghibli-Film-Viewer" target="_blank">
+  <a href="https://github.com/SE-2209-Group1" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+<!--     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/> -->
+  </a>
+      </p>
+        <p>A fantastic full stack application inspired by the DFX website!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Pair-Programming Project</h3>
+      <br />
+        <a target="_blank" href="https://github.com/Jacamy">
+          <img src="/Jacamy.gif" width="100%" alt="Jacamy homepage"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/Jacamy" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://starlit-babka-7ac42c.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p>View the wonderful films of Studio Ghibli!</p>
-    </td>
-  
-    <td width="50%" valign="top">
-      <h3 align="center">Portfolio Website</h3>
-      <br />
-        <a target="_blank" href="https://amyspawton.com/">
-          <img src="/Portfolio.gif" width="100%" alt="my portfolio"/>
-        </a>
-      <br />
-        <p align="center">
   <a href="#" target="_blank">
-<!--     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> -->
-  </a>
-  <a href="https://amyspawton.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+<!--     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/> -->
   </a>
       </p>
-        <p>My portfolio website</p>
+        <p>A snazzy homepage built alongside a fabulous developer friend!</p>
     </td>
+
   </tr>
   
   <tr>
