@@ -119,25 +119,25 @@ More Links to my projects below!...
         <p>View the wonderful films of Studio Ghibli!</p>
     </td>
   
-   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Studio Ghibli film viewer</h3>
-        <br />
-        <a target="_blank" href="https://starlit-babka-7ac42c.netlify.app/">
-          <img src="/Ghibli.gif" width="100%" alt="Ghibli app"/>
+      <h3 align="center">Portfolio Website</h3>
+      <br />
+        <a target="_blank" href="https://amyspawton.com/">
+          <img src="/Portfolio.gif" width="100%" alt="my portfolio"/>
         </a>
-        <br />
+      <br />
         <p align="center">
-
-  <a href="https://github.com/Spawton/Ghibli-Film-Viewer" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  <a href="#" target="_blank">
+<!--     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> -->
   </a>
-  <a href="https://starlit-babka-7ac42c.netlify.app/" target="_blank">
+  <a href="https://amyspawton.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p>View the wonderful films of Studio Ghibli!</p>
+        <p>My portfolio website</p>
     </td>
+
+  </tr>
   
   <tr>
     <td width="50%" valign="top">
