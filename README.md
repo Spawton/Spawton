@@ -136,8 +136,6 @@ More Links to my projects below!...
       </p>
         <p>My portfolio website</p>
     </td>
-
-  </tr>
   
   <tr>
     <td width="50%" valign="top">
