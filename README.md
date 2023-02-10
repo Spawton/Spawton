@@ -114,7 +114,7 @@ More Links to my projects below!...
 <!--     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/> -->
   </a>
       </p>
-        <p>A fantastic full stack application inspired by the DFX website!</p>
+        <p>A fantastic full stack application inspired by the DFX website and built alongside a group of amazing developers!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Pair-Programming Project</h3>
