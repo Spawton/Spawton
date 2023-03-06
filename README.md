@@ -44,6 +44,7 @@ More Links to my projects below!...
 <p align="center">
   <img src="assets/explorer.png" width=200>
   <img src="assets/agile-explorer.png" width=200>
+  <img src="assets/oracleJava.jpg" width=400>
 </p>  
 
 <div align="center">
